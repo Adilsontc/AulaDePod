@@ -1,6 +1,6 @@
-
-#Adilson  AulaDePod
+#Adilson  AulaDePod - Conflito local
 Teste 
 Mais um teste
-#Novo texto na aula de POD.
-Nova linha
+Correção de bug
+=======
+correcao-bug
